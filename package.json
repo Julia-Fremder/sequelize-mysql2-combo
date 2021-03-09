@@ -1,0 +1,27 @@
+{
+  "name": "projeto-02-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/julia.fremder/projeto-02-sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/julia.fremder/projeto-02-sequelize/issues"
+  },
+  "homepage": "https://gitlab.com/julia.fremder/projeto-02-sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.5.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
