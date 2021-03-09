@@ -1,3 +1,3 @@
-require('./server');
+require('./app/server');
 
 console.log('subiu');

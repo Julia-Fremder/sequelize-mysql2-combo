@@ -19,6 +19,7 @@
   "homepage": "https://gitlab.com/julia.fremder/projeto-02-sequelize#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mysql2": "^2.2.5",
     "sequelize": "^6.5.0"
   },
   "devDependencies": {
